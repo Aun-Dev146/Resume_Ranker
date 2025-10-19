@@ -1,0 +1,16 @@
+ fastapi
+uvicorn[standard]
+sentence-transformers
+numpy
+scikit-learn
+python-multipart
+pydantic
+sqlalchemy
+alembic
+python-docx
+pdfminer.six
+faiss-cpu   # optional, for vector search on CPU
+python-dotenv
+requests
+pytest
+
